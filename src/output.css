@@ -554,6 +554,10 @@ video {
   display: none;
 }
 
+.m-24 {
+  margin: 6rem;
+}
+
 .h-full {
   height: 100%;
 }
